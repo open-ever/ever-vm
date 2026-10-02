@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 2.2.27
+
+- Switched `ever-block` dependency to `open-ever/ever-block` pinned at tag `1.11.23`
+- Switched `common` submodule to `open-ever/common`
+
 ## Version 2.2.26
 
 - Fix the build
